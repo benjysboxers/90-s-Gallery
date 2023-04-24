@@ -144,6 +144,7 @@ input[type=text], select, textarea{
     margin-top: 6px;
     margin-bottom: 16px;
     box-shadow: 0 25px 50px -12px black;
+    color: black;
 }
 .submit-btn{
     text-align: center;
